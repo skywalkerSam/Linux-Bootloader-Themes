@@ -1,18 +1,15 @@
 ![GH language](https://img.shields.io/github/languages/top/ChrisTitusTech/Top-5-Bootloader-Themes)
-[![GH tag](https://img.shields.io/github/v/tag/ChrisTitusTech/Top-5-Bootloader-Themes)](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes/tags)
-[![GH release](https://img.shields.io/github/v/release/ChrisTitusTech/Top-5-Bootloader-Themes)](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes/releases)
 ![GH license](https://img.shields.io/github/license/ChrisTitusTech/Top-5-Bootloader-Themes)
 ![GH stars](https://img.shields.io/github/stars/ChrisTitusTech/Top-5-Bootloader-Themes)
 ![Bash CI](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes/workflows/bash_unit%20CI/badge.svg)
 ![Shellcheck CI](https://github.com/ChrisTitusTech/Top-5-Bootloader-Themes/workflows/Shellcheck%20CI/badge.svg)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=ChrisTitusTech.Top-5-Bootloader-Themes)
 
 ChrisTitusTech Top 5 Bootloader Themes
 ======================================
 
 Install Bootloader Themes with ease.
 
-- Chris Titus Tech Channel : [https://www.youtube.com/user/homergfunk](https://www.youtube.com/user/homergfunk)
+- Chris Titus Tech Channel : [https://www.youtube.com/@christitustech](https://www.youtube.com/@christitustech)
 - Chris Titus Tech YouTube Video : [Bootloader Themes | Install & Configuration](https://www.youtube.com/watch?v=BAyzHP1Cqb0)
 - Full Walkthrough : [https://christitus.com/bootloader-themes](https://christitus.com/bootloader-themes)
 
